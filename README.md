@@ -1,16 +1,38 @@
-## Hi there 👋
+```
+┌─ genairadar@github ────────────────────────────────────────────────────────┐
+│                                                                            │
+│  $ cat manifesto                                                           │
+│                                                                            │
+│    I.   Designing the shift, not watching it.                              │
+│    II.  Legibility is the new speed.                                       │
+│    III. Delegation is a design decision.                                   │
+│    IV.  Filter, don't accumulate. Interpret, don't relay.                  │
+│    V.   Neither techno-utopian nor techno-cynical.                         │
+│                                                                            │
+│  $ cat radar.toml                                                          │
+│                                                                            │
+│    position      = "editorial, not encyclopedic"                           │
+│    promise       = "filter rather than accumulate"                         │
+│    covers        = [Claude, Figma, Stitch, Pencil, OpenClaw, MCP]          │
+│    written_from  = "inside design at 170-country scale"                    │
+│    refuses       = ["techno-utopia", "hot takes", "feature recap"]         │
+│                                                                            │
+│  $ ls ./editions                                                           │
+│                                                                            │
+│    radar/        monthly synthesis        →   mrvt.link/radar-genAI        │
+│    loop/         weekly Monday read       →   loop.genairadar.co           │
+│    collective/   the reading space        →   genairadar.co                │
+│                                                                            │
+│  $ whoami                                                                  │
+│                                                                            │
+│    Hugo Mourlevat                                                          │
+│    Founder of GenAI Radar                                                  │
+│    Chief Design Officer @ Michelin                                         │
+│    (AI) Product Builder  ✦  Lyon, FR                                       │
+│                                                                            │
+│  $ █                                                                       │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-<!--
-**genairadar/genairadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Radar ✦**](https://mrvt.link/radar-genAI) &nbsp;·&nbsp; [**Loop ✦**](https://loop.genairadar.co) &nbsp;·&nbsp; [**The Collective ✦**](https://genairadar.co) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/hugomrvt)
